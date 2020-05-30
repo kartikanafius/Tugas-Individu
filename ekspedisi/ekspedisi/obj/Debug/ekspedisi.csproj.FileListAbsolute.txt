@@ -1,0 +1,10 @@
+D:\tika\pemvis\ekspedisi\ekspedisi\bin\Debug\ekspedisi.exe.config
+D:\tika\pemvis\ekspedisi\ekspedisi\bin\Debug\ekspedisi.exe
+D:\tika\pemvis\ekspedisi\ekspedisi\bin\Debug\ekspedisi.pdb
+D:\tika\pemvis\ekspedisi\ekspedisi\obj\Debug\ekspedisi.csprojAssemblyReference.cache
+D:\tika\pemvis\ekspedisi\ekspedisi\obj\Debug\ekspedisi.Form1.resources
+D:\tika\pemvis\ekspedisi\ekspedisi\obj\Debug\ekspedisi.Properties.Resources.resources
+D:\tika\pemvis\ekspedisi\ekspedisi\obj\Debug\ekspedisi.csproj.GenerateResource.cache
+D:\tika\pemvis\ekspedisi\ekspedisi\obj\Debug\ekspedisi.csproj.CoreCompileInputs.cache
+D:\tika\pemvis\ekspedisi\ekspedisi\obj\Debug\ekspedisi.exe
+D:\tika\pemvis\ekspedisi\ekspedisi\obj\Debug\ekspedisi.pdb
